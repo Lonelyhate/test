@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CountDublicateAccount\\CountDublicateAccount.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CountDublicateAccount\\CountDublicateAccount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CountDublicateAccount\\CountDublicateAccount.csproj",
+        "projectName": "CountDublicateAccount",
+        "projectPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CountDublicateAccount\\CountDublicateAccount.csproj",
+        "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CountDublicateAccount\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMConnectAPI\\CRMConnectAPI.csproj": {
+                "projectPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMConnectAPI\\CRMConnectAPI.csproj"
+              },
+              "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMEntity\\CRMEntity.csproj": {
+                "projectPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMEntity\\CRMEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMConnectAPI\\CRMConnectAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMConnectAPI\\CRMConnectAPI.csproj",
+        "projectName": "CRMConnectAPI",
+        "projectPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMConnectAPI\\CRMConnectAPI.csproj",
+        "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMConnectAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Data8.PowerPlatform.Dataverse.Client": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMEntity\\CRMEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMEntity\\CRMEntity.csproj",
+        "projectName": "CRMEntity",
+        "projectPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMEntity\\CRMEntity.csproj",
+        "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikit\\Desktop\\JK Samolet\\Samolet.Zakupki\\Scripts\\Scripts\\CRMEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.PowerPlatform.Dataverse.Client": {
+              "target": "Package",
+              "version": "[1.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
